@@ -1,0 +1,73 @@
+<?php
+// delete.php for bdphp in /Users/philippe/dev/svn/BDPHP/olivie_c
+// 
+// Made by Philippe TRING
+// Login   <tring_p@etna-alternance.net>
+// 
+// Started on  Thu Nov 21 14:53:23 2013 Philippe TRING
+// Last update Fri Nov 22 10:28:42 2013 Philippe TRING
+//
+function func_delete($req)
+{
+  $req = implode(" ", $req);
+  $regex = '/delete from (\w+) where (.*?)\s*(?=and (.+)|$)/';
+  if (!preg_match($regex, $req, $match))
+    write('Error in delete syntax !');
+  else if (table_exists($match[1]))
+    {
+      if (isset($match[3]))
+	delete_column($match[1], $match[2], $match[3]);
+      delete_column($match[1], $match[2]);
+    }
+  else
+    write("Error table '$match[1]' doesn't exists");
+}
+
+function delete_column($tab_name, $where, $and = null)
+{
+  $table_value = get_table_value($tab_name);
+  $where = explode(" ", $where);
+  var_dump(check_cond($where[0], $where[1], $where[2]));
+}
+
+function check_cond($l_arg, $op, $r_arg)
+{
+  switch ($op)
+    {
+    case "=":
+      return ($l_arg == $r_arg) ? true : false;
+    case "not":
+      return ($l_arg != $r_arg) ? true : false;
+    case "<":
+      return ($l_arg < $r_arg) ? true : false;
+    case ">":
+      return ($l_arg > $r_arg) ? true : false;
+    case "<=":
+      return ($l_arg <= $r_arg) ? true : false;
+    case ">=":
+      return ($l_arg >= $r_arg) ? true : false;
+      //case "like":
+      //return ($l_arg < $r_arg) ? true : false;
+    default:
+      write('Wrong comparison operator');
+    }
+}
+//return an array[column_name][line_nbr]
+function get_table_value($tab_name)
+{
+  global $database;
+  $res = array();
+  $lines = file("$database/$tab_name.csv");
+  foreach ($lines as $line_num => $line)
+    {
+      if ($line_num == 0)
+	$key = explode(";", $line);
+      if ($line_num > 2)
+	{
+	  $line = explode(';', $line);
+	    foreach ($key as $i => $k)
+	      $res[$k][] = $line[$i];
+	}
+    }
+  return $res;
+}

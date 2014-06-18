@@ -1,0 +1,23 @@
+INSERT clients
+(
+	id  = 1	,	
+    nom	= tring	, 
+	pnom	= philippe		    	,
+    age = 20
+) ;
+
+INSERT clients
+(
+	id  = 2	,	
+    nom	= olivier	, 
+	pnom	= cedric		    	,
+    age = 10
+) ;
+
+INSERT clients
+(
+	id  = 3	,	
+    nom	= laurent	, 
+	pnom	= angie		    	,
+    age = 0
+) ;

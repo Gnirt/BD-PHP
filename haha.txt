@@ -1,0 +1,35 @@
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+Table clients doesn't exists!
+Table clients doesn't exists!
+Table clients doesn't exists!

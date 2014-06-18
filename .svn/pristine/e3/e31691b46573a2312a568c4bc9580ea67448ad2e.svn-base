@@ -1,0 +1,56 @@
+CREATE TABLE clients
+(
+	id      integer		PRIMARY_KEY,	
+    nom		string	NOT_NULL	, 
+	pnom	string		    	,
+    age		integer
+) ;
+
+DESC clients;
+
+DROP	clients	;
+
+CREATE	TABLE	toto
+    (
+		id      integer PRIMARY_KEY ,
+		nom     string  NOT_NULL    ,
+		pnom    string              ,
+		age     integer
+	);
+
+	DESC	 toto;
+
+INSERT toto
+(
+	id  = 1	,	
+    nom	= tring	, 
+	pnom	= philippe		    	,
+    age = 20
+) ;
+
+INSERT toto
+(
+	id  = 2	,	
+    nom	= olivier	, 
+	pnom	= cedric		    	,
+    age = 10
+) ;
+
+INSERT toto
+(
+	id  = 4	,	
+    nom	= laurent	, 
+	pnom	= angie		    	,
+    age = 4
+) ;
+
+	DESC	 toto;
+	
+	deLetE from toto where id = 1;
+	
+DELETE FROM   	toto	 where nom = olivier or age = 3	;
+		
+		
+		desc toto;
+		
+quit;

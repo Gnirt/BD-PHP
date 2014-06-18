@@ -1,0 +1,3216 @@
+Warning: ./database/philou doesn't exists! Would you like to create one? (yes/no)
+-> A new database has been create
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+-> Table 'toto' created.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+Error: 'age' column doesn't exists in 'toto'
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+Error: 'age' column doesn't exists in 'toto'
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+Error: 'age' column doesn't exists in 'toto'
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+Error: 'age' column doesn't exists in 'toto'
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+Error: 'age' column doesn't exists in 'toto'
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+Error: 'age' column doesn't exists in 'toto'
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 2 row(s) deleted.
+-> 3 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 3 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 3 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 3 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+Error: 'age' column doesn't exists in 'toto'
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+Error: 'age' column doesn't exists in 'toto'
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 2 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 3 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+Error: 'age' column doesn't exists in 'toto'
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 2 row(s) deleted.
+Error: 'age' column doesn't exists in 'toto'
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 2 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 3 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 3 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 3 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+-> Table 'toto' created.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+Error table 'toto' doesn't exists or there's no data
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+Error table 'toto' doesn't exists or there's no data
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+Error table 'toto' doesn't exists or there's no data
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+Error table 'toto' doesn't exists or there's no data
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+Error table 'toto' doesn't exists or there's no data
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL2       
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+-> Table 'toto' created.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+Error table 'toto' doesn't exists or there's no data
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL2       
+OLIVIER     
+CEDRIC      
+103         
+LAURENT     
+ANGIE       
+3           
+------- TABLE 'toto' -------
+Error: Column name doesn’t exists
+Error: Column name doesn’t exists
+Error: Column name doesn’t exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL2       
+OLIVIER     
+CEDRIC      
+103         
+LAURENT     
+ANGIE       
+3           
+------- TABLE 'toto' -------
+Error table 'toto' doesn't exists or there's no data
+Error table 'toto' doesn't exists or there's no data
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL2       
+OLIVIER     
+CEDRIC      
+103         
+LAURENT     
+ANGIE       
+3           
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL2       
+OLIVIER     
+CEDRIC      
+103         
+LAURENT     
+ANGIE       
+3           
+------- TABLE 'toto' -------
+Error: Column name doesn’t exists
+Error: Column name doesn’t exists
+Error: Column name doesn’t exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL2       
+OLIVIER     
+CEDRIC      
+103         
+LAURENT     
+ANGIE       
+3           
+------- TABLE 'toto' -------
+Error table 'toto' doesn't exists or there's no data
+Error table 'toto' doesn't exists or there's no data
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL2       
+OLIVIER     
+CEDRIC      
+103         
+LAURENT     
+ANGIE       
+3           
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL2       
+OLIVIER     
+CEDRIC      
+103         
+LAURENT     
+ANGIE       
+3           
+------- TABLE 'toto' -------
+Error: Column name doesn’t exists
+Error: Column name doesn’t exists
+Error: Column name doesn’t exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL2       
+OLIVIER     
+CEDRIC      
+103         
+LAURENT     
+ANGIE       
+3           
+------- TABLE 'toto' -------
+Error table 'toto' doesn't exists or there's no data
+Error table 'toto' doesn't exists or there's no data
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL2       
+OLIVIER     
+CEDRIC      
+103         
+LAURENT     
+ANGIE       
+3           
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL2       
+OLIVIER     
+CEDRIC      
+103         
+LAURENT     
+ANGIE       
+3           
+------- TABLE 'toto' -------
+Error: Column name doesn’t exists
+Error: Column name doesn’t exists
+Error: Column name doesn’t exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL2       
+OLIVIER     
+CEDRIC      
+103         
+LAURENT     
+ANGIE       
+3           
+------- TABLE 'toto' -------
+Error table 'toto' doesn't exists or there's no data
+Error table 'toto' doesn't exists or there's no data
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL2       
+OLIVIER     
+CEDRIC      
+103         
+LAURENT     
+ANGIE       
+3           
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+-> Table 'toto' created.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+Error table 'toto' doesn't exists or there's no data
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+Error table 'toto' doesn't exists or there's no data
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+Error table 'toto' doesn't exists or there's no data
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+Error table 'toto' doesn't exists or there's no data
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+Error table 'toto' doesn't exists or there's no data
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+-> Table 'toto' created.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+Error table 'toto' doesn't exists or there's no data
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+Error table 'toto' doesn't exists or there's no data
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+Error table 'toto' doesn't exists or there's no data
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+Error table 'toto' doesn't exists or there's no data
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+Error table 'toto' doesn't exists or there's no data
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+Error table 'toto' doesn't exists or there's no data
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+Error table 'toto' doesn't exists or there's no data
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+-> Table 'toto' created.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+-> Table 'toto' created.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+-> Table 'toto' created.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+-> Table 'toto' created.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+-> Table 'toto' created.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+-> Table 'toto' created.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+-> Table 'toto' created.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+-> Table 'toto' created.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+Warning: ./database/philoo doesn't exists! Would you like to create one? (yes/no)
+Bye bye darling. Come to see me again.
+TU FOUS MA GUELLE ?
+TU FOUS MA GUELLE ?
+Warning: ./database/philoo doesn't exists! Would you like to create one? (yes/no)
+Bye bye darling. Come to see me again.
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+Error: Table 'toto' already exists
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Insert done.
+-> Insert done.
+-> Insert done.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> 1 row(s) deleted.
+-> 1 row(s) deleted.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+Syntax error : function  doesn't exists
+Syntax error : function test doesn't exists
+Syntax error : function test doesn't exists
+Syntax error : function ;; doesn't exists
+Syntax error : function ; doesn't exists
+-> Table 'toto' dropped.
+-> Table 'toto' dropped.
+-> Table 'toto' is truncate.
+Error: Table 'toto' already exists
+-> Table 'test' created.
+-> Table 'test' is truncate.
+-> Table 'test' is truncate.
+-> Table 'test' is truncate.
+-> Table 'test' is truncate.
+-> Table 'test2' created.
+-> Insert done.
+-> Table 'test2' is truncate.
+Syntax error : function . doesn't exists
+Syntax error : function test doesn't exists
+Syntax error : function hoho doesn't exists
+Syntax error : function clear doesn't exists

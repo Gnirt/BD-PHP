@@ -1,0 +1,374 @@
+reqqqqqqqqqqqqqqqqqqqqqreqqqqqqqqqqqqqqqqqqqqqreqqqqqqqqqqqqqqqqqqqqqUsage: ./bdphp.php [-i inputfile] [-o outputfile] dbfile
+--> Table create syntax error in request
+--> Table create syntax error in request
+syntax error : insert
+syntax error : reate
+syntax error : insert
+syntax error : insert
+syntax error : insert
+--> Table create syntax error in request
+--> Table create syntax error in request
+syntax error : insert
+syntax error : reate
+syntax error : insert
+syntax error : insert
+syntax error : insert
+--> Table create syntax error in request
+--> Table create syntax error in request
+syntax error : insert
+syntax error : reate
+syntax error : insert
+syntax error : insert
+syntax error : insert
+--> Table create syntax error in request
+--> Table create syntax error in request
+syntax error : insert
+syntax error : reate
+syntax error : insert
+syntax error : insert
+syntax error : insert
+--> Table create syntax error in request
+--> Table create syntax error in request
+syntax error : insert
+syntax error : reate
+syntax error : insert
+syntax error : insert
+syntax error : insert
+--> Table create syntax error in request
+--> Table create syntax error in request
+syntax error : insert
+syntax error : reate
+syntax error : insert
+syntax error : insert
+syntax error : insert
+--> Table create syntax error in request
+--> Table create syntax error in request
+syntax error : insert
+syntax error : reate
+syntax error : insert
+syntax error : insert
+syntax error : insert
+--> Table create syntax error in request
+--> Table create syntax error in request
+syntax error : insert
+syntax error : reate
+syntax error : insert
+syntax error : insert
+syntax error : insert
+--> Table create syntax error in request
+--> Table create syntax error in request
+syntax error : insert
+syntax error : reate
+syntax error : insert
+syntax error : insert
+syntax error : insert
+--> Table create syntax error in request
+--> Table create syntax error in request
+syntax error : insert
+syntax error : reate
+syntax error : insert
+syntax error : insert
+syntax error : insert
+Error: dbfile must be a directory.
+Error: dbfile must be a directory.
+Error: dbfile must be a directory.
+--> Table create syntax error in request
+--> Table create syntax error in request
+syntax error : insert
+syntax error : reate
+syntax error : insert
+syntax error : insert
+syntax error : insert
+Error: Duplicate table
+Error: Duplicate table
+Error: Duplicate table
+syntax error : 
+Error: Duplicate table
+Error: Duplicate table
+Error: Duplicate table
+Error: Table already exists
+syntax error : 
+Error: Table already exists
+-> Table 'clients' created.
+Error: Table already exists
+-> Table 'clients' created.
+Error: Table already exists
+-> Table 'clients' created.
+Error: Table already exists
+-> Table 'clients' created.
+Error: Table already exists
+-> Table 'clients' created.
+Error: Table already exists
+Create table unknown type, options or duplicate primary key
+Create table unknown type, options or duplicate primary key
+Create table unknown type, options or duplicate primary key
+-> Table 'toto' created.
+-> Table 'clients' created.
+syntax error : i
+------- TABLE 'cedric_le_bg' -------
+''   
+------- TABLE 'cedric_le_bg' -------
+------- TABLE 'cedric_le_bg' -------
+''   
+------- TABLE 'cedric_le_bg' -------
+------- TABLE 'cedric_le_bg.csv' -------
+''   
+------- TABLE 'cedric_le_bg.csv' -------
+-> Table 'clients' created.
+syntax error : test
+-> Table 'clients' created.
+Error: Table already exists
+Error: Table already exists
+Error: Table already exists
+Error: database must be a directory.
+Error: database must be a directory.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' created.
+syntax error : 
+Error: Table already exists
+syntax error
+syntax error : (
+syntax error
+syntax error : (
+syntax error : 
+-> Table 'clients' created.
+-> Table 'clients' created.
+-> error syntax
+-> Table 'clients' created.
+-> Table 'clients' is truncate.
+syntax error : drop
+-> Table 'clients' dropped.
+Error: table 'test' doesn't exists
+Error: table 'test' doesn't exists
+Error: table 'test' doesn't exists
+Create table syntax error in request
+Table 'clients' doesn't exists
+Error: table 'clients' doesn't exists
+Create table syntax error in request
+Table 'toto' doesn't exists
+Error: table 'toto' doesn't exists
+Create table syntax error in request
+Table 'clients' doesn't exists
+Error: table 'clients' doesn't exists
+Create table syntax error in request
+Table 'toto' doesn't exists
+Error: table 'toto' doesn't exists
+Create table syntax error in request
+Table 'clients' doesn't exists
+Error: table 'clients' doesn't exists
+Create table syntax error in request
+Table 'toto' doesn't exists
+Error: table 'toto' doesn't exists
+Create table syntax error in request
+Table 'clients' doesn't exists
+Error: table 'clients' doesn't exists
+Create table syntax error in request
+Table 'toto' doesn't exists
+Error: table 'toto' doesn't exists
+Create table syntax error in request
+Table 'clients' doesn't exists
+Error: table 'clients' doesn't exists
+Create table syntax error in request
+Table 'toto' doesn't exists
+Error: table 'toto' doesn't exists
+Create table syntax error in request
+Table 'clients' doesn't exists
+Error: table 'clients' doesn't exists
+Create table syntax error in request
+Table 'toto' doesn't exists
+Error: table 'toto' doesn't exists
+Error: Table 'clients ' already exists
+Table 'clients' doesn't exists
+Error: table 'clients' doesn't exists
+-> Table 'toto ' created.
+Table 'toto' doesn't exists
+Error: table 'toto' doesn't exists
+Create table syntax error in request
+Table 'clients' doesn't exists
+Error: table 'clients' doesn't exists
+Create table syntax error in request
+Table 'toto' doesn't exists
+Error: table 'toto' doesn't exists
+Create table syntax error in request
+Table 'clients' doesn't exists
+Error: table 'clients' doesn't exists
+Create table syntax error in request
+Table 'toto' doesn't exists
+Error: table 'toto' doesn't exists
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+-> Table 'toto' created.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'toto' dropped.
+-> Table 'clients' created.
+Error: Table 'clients' already exists
+Error: Table 'clients' already exists
+Error: Table 'clients' already exists
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+-> Table 'toto' created.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'toto' dropped.
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+-> Table 'toto' created.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'toto' dropped.
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'toto' created.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'toto' dropped.
+Error: Table 'clients' already exists
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+-> Table 'toto' created.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'toto' dropped.
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+-> Table 'toto' created.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'toto' dropped.
+-> Table 'clients' created.
+Error: Table 'clients' already exists
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+-> Table 'toto' created.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'toto' dropped.
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+-> Table 'toto' created.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'toto' dropped.
+-> Table 'clients' created.
+------- TABLE 'clients' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'clients' -------
+-> Table 'clients' dropped.
+-> Table 'toto' created.
+------- TABLE 'toto' -------
+'id'          integer     PRIMARY_KEY 
+'nom'         string      NOT_NULL    
+'pnom'        string      NULL        
+'age'         integer     NULL        
+------- TABLE 'toto' -------
+-> Table 'toto' dropped.
+Error: ./database/data must be a directory.
+Error: ./database/data must be a directory.
+Warning: ./database/data doesn't exists! Would you like to create one? (yes/no)
+Bye bye darling. Come to see me again.
+syntax error : '/delete
+syntax error : (?!ignoreme|ignoreme2|ignoremen)
+syntax error : (?=abc)
+syntax error : 
+syntax error : 
+syntax error : 
+syntax error : 
+syntax error : 
+syntax error : 
+syntax error : select
+Error in delete syntax !
+Error in delete syntax !
+Error in delete syntax !
+Error table 'nom_table' doesn't exists
+Error in delete syntax !
+Error table 'clients' doesn't exists
+Error table 'clients' doesn't exists
+-> Table 'clients' created.
+wrong comparison operator
+syntax error : foreach
+syntax error : }

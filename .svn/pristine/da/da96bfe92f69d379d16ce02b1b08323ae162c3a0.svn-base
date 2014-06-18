@@ -1,0 +1,8 @@
+[ ] remove useless \n
+[x] remove $> en trop
+[x] si aucun argument n'est passer, le nom de la base devient bdphp.php
+[ ] si la base de donne passer en parametre n'existe pas il faut un usage
+[ ] faire en sorte de ne pas prendre en compte un saut de ligne avant le début d'une commande
+    	   ex : \n create table etc. la premiere case du tableau prend le vide ce qui fais bugguer l'execution try !empty to check
+[ ] verifier auto_exec lorsque -> check_usagedata est valide;
+[x] crash si le point virgule est saisi sur la meme ligne. ex: desc table_name;

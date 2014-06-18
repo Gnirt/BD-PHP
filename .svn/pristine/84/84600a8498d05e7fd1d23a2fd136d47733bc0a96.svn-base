@@ -1,0 +1,35 @@
+<?php
+// select.php for Select bdphp in /Users/Gato/Documents/ETNA/projets/BDPHP_Nov_2013/olivie_c
+// 
+// Made by OLIVIER Cedric
+// Login   <olivie_c@etna-alternance.net>
+// 
+// Started on  Wed Nov 20 17:33:31 2013 OLIVIER Cedric
+// Last update Thu Nov 21 15:48:30 2013 OLIVIER Cedric
+//
+function func_select($arr)
+{
+  //$table = $arr[1];
+  print_r($arr);
+  //$arr = preg_split("#[() ;]#", $arr);
+  //print_r($arr);
+}
+function get_contenu($arr)
+{
+  foreach ($arr as $value)
+    {
+      
+    }
+}
+function cut_str($str)
+{
+  
+  for ($i = 0; $i < strlen($str); $i++)
+    {
+      if (preg_match("#[();]#", $str[$i]))
+	{
+	  //  $arr = explode(str[$i], $str)
+	}
+      
+    }
+}

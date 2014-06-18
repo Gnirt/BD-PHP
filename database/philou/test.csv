@@ -1,0 +1,6 @@
+id;nom;pnom;age
+integer;string;string;integer
+primary_key;not_null;null;null
+3;5;3;4
+3;5;3;14
+nom;id;pnom;18

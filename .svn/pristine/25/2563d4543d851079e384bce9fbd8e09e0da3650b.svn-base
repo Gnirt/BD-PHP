@@ -1,0 +1,43 @@
+CREATE TABLE Customer
+(First_Name char(50),
+Last_Name char(50),
+Address char(50),
+City char(50),
+Country char(25),
+Birth_Date datetime);
+
+CREATE TABLE Customer
+(First_Name char(50),
+Last_Name char(50),
+Address char(50) default 'Unknown',
+City char(50) default 'Grenoble',
+Country char(25),
+Birth_Date datetime);
+
+DESC Customer;
+
+INSERT T_TITRE
+       VALUES  ('M.'    , 'Monsieur',
+                'Mlle.' , 'Mademoiselle'
+                'Mme.'  , 'Madame');
+
+REATE TABLE T_PROSPECT
+(PRP_ID               INTEGER       NOT NULL,
+ PRP_CODE_TITRE       CHAR(4)       NULL    ,
+ PRP_NOM              CHAR(25)      NOT NULL,
+ PRP_PRENOM           VARCHAR(16)   NULL    ,
+ PRP_ENSEIGNE         VARCHAR(60)   NULL    ,
+ PRP_DATE_SAISIE      TIMESTAMP     NOT NULL,
+ CONSTRAINT PK_T_PROSPECT PRIMARY KEY (PRP_ID))
+
+
+;
+
+
+INSERT INTO T_PROSPECT (PRP_ID, PRP_CODE_TITRE, PRP_NOM, PRP_PRENOM, PRP_ENSEIGNE, PRP_DATE_SAISIE)
+       VALUES          (1,      'M.',           'Dupont','Alain',    NULL,         DEFAULT        );
+INSERT INTO T_PROSPECT
+       VALUES          (2,      'Mme.',         'Durand','Aline',    'SNCF',        '2000-12-25'   );
+INSERT INTO T_PROSPECT (PRP_ID, PRP_CODE_TITRE, PRP_NOM )
+       VALUES          (3,      'M.',           'Dubois')
+;

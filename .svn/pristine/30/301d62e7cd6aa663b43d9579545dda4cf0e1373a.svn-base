@@ -1,0 +1,83 @@
+<?php
+// delete.php for bdphp in /Users/philippe/dev/svn/BDPHP/olivie_c
+// 
+// Made by Philippe TRING
+// Login   <tring_p@etna-alternance.net>
+// 
+// Started on  Thu Nov 21 14:53:23 2013 Philippe TRING
+// Last update Fri Nov 22 10:50:54 2013 Philippe TRING
+//
+function func_delete($req)
+{
+  $req = implode(" ", $req);
+  $regex = '/delete from (\w+) where (.*?)\s*(?=and (.+)|$)/';
+  if (!preg_match($regex, $req, $match))
+    write('Error in delete syntax !');
+  else
+    {
+      if (isset($match[3]))
+	delete_column($match[1], $match[2], $match[3]);
+      delete_column($match[1], $match[2]);
+    }
+}
+
+function delete_column($tab_name, $where, $and = null)
+{
+  if (!$tab_value = get_table_value($tab_name))
+    write("Error table '$tab_name' doesn't exists");
+   else
+     {
+       $where = explode(" ", $where);
+       if (!array_key_exists($where[0], $tab_value))
+	 write("Error: '$where[0]' column doesn't exists in '$tab_name'");
+       //       else if (check_cond($tab_value[$where[0]]))
+       //	 echo "OK";
+    }
+}
+
+function check_cond($l_arg, $op, $r_arg)
+{
+  switch ($op)
+    {
+    case "=":
+      return ($l_arg == $r_arg) ? true : false;
+    case "not":
+      return ($l_arg != $r_arg) ? true : false;
+    case "<":
+      return ($l_arg < $r_arg) ? true : false;
+    case ">":
+      return ($l_arg > $r_arg) ? true : false;
+    case "<=":
+      return ($l_arg <= $r_arg) ? true : false;
+    case ">=":
+      return ($l_arg >= $r_arg) ? true : false;
+      //case "like":
+      //return ($l_arg < $r_arg) ? true : false;
+    default:
+      write('Wrong comparison operator');
+    }
+}
+//return an array[column_name][line_nbr]
+function get_table_value($tab_name)
+{
+  if (!table_exists($tab_name))
+    return false;
+  else
+    {
+      global $database;
+      $res = array();
+      $lines = file("$database/$tab_name.csv");
+      foreach ($lines as $line_num => $line)
+	{
+	  if ($line_num == 0)
+	    $key = explode(";", $line);
+	  if ($line_num > 2)
+	    {
+	      $line = explode(';', $line);
+	      foreach ($key as $i => $k)
+		$res[$k][] = $line[$i];
+	    }
+	}
+    }
+  return $res;
+}

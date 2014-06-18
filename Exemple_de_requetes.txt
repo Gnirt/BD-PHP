@@ -1,0 +1,25 @@
+CREATE TABLE clients
+(
+	id      integer	PRIMARY_KEY	,	
+    nom		string	NOT_NULL	, 
+	pnom	string		    	,
+    age		integer
+) ;
+
+DESC clients;
+
+DROP	clients	;
+
+CREATE	TABLE	toto
+    (
+		id      integer PRIMARY_KEY ,
+		nom     string  NOT_NULL    ,
+		pnom    string              ,
+		age     integer
+	);
+
+	DESC	 toto;
+
+ DROP toto	;
+
+QUIT ;
